@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 Hi! I'm Jiin i live in Korea and learning some programs for becoming a front-end developer!
-And also i'm interested in Ux Design! 
+<br>And also i'm interested in Ux Design! 
 
 ✨what i really want to achieve is to have an experince as a junior developer in other countries someday! 
 i've been learning these programs for 2months every single day!!!which is amazing thing! 
