@@ -1,10 +1,9 @@
-### Hi there 👋![57b993c6a609f0e9ccb3b004aa828fea-sticker](https://github.com/Jiin4475/Jiin4475/assets/134131529/d9bdeaa6-6357-4315-a6b3-b3087e01f7bb)
-
+### Hi there 👋
 
 <!--
 **Jiin4475/Jiin4475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 Hi! I'm Jiin i live in Korea and learning some programs for becoming a front-end developer!
 And also i'm interested in Ux Design! 
